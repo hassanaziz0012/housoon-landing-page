@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "housoon-calculator",
+  "private_key_id": "887a3218e87511a6d09e0a62aac4609a7bdd696e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmKmhjYMhuyTpu\nWRwghU5k6FUQPQP1bcI6eVB6Y+JgZO1CTHQcVwQyxWWQs0QiAZIru4MWQkbt0Kfs\nC3AJ0l9R0NODIr+ZNqVyUl2lbfoWW/ki/dNmbBQURjXKj6wblQowE/P50QK+jBmz\n1v0p4jyp+Dz+esNhmaFwEiAn98g3xsVFbUfzXZBgVczU3xXVYNaKDhHXL8ot5GeO\nd3COldi2p3dqm4EOqjSkMaNLWa83EWWad8Vbam0DLTFBAD8dcuz9yErLJbg8cDDB\nnZgZgKsNNhPxEpehBgzC6j5jQ9a9INtXmCAlPwqETbGMPiNf88N8e6OB2v0yM0gg\ngdjuctHXAgMBAAECggEADixT1xYsQnbbiwoCwitcsnK2vrnVmpuQE5jBao8Wgg5Z\nxmvrA3fQndwEe8EusI/dvekylzV0A1jm2dVn6w6MntfnEqpmGVV16zhnUHL+/+U8\nbOWloHjbhZcvg2WZ0oh14//vsYFIcKRWlOZjlaz8a6sG2NXz0GFgScTiBUa3RzqD\n7Uf9o00YjX5SQm1BYrZ6jA1/IdqqkQixJ+j2dEGhYaKsZGXRAH7jU2gApWSsWvUa\nFWR6noI0vjDGQY2BrfsLhOE451j2oqcM5IEZydmTIWu4Ipd2roqHg2A3WDmwJXJ5\nlPNWE2uacTIf0PfpWLUsTP3Sk0Yytc30fM6tsmjlcQKBgQDQil9+8IPKGzw7k2wl\ntyrJMSTCpLqDNdIdpPNEJBFcisUfC35bJ0N6MCh8qPl+lgt4rBMT1omLp/YDdl4O\nqYocWSmVj4yfjxG6b7bCw4dqgkdBJd87lZEShomTAcuRVLVBHwM0Ws2rxJo/YHBM\n6qJkzD2rByiH8EPJUVhkdpt8awKBgQDL+0OB99N2GY23sKn+UPWa7KXAb0jV9UQb\nLDCf8xPX44YcVGNVytRfTj0sP8Me9/gMJDlHOhn5+feAe/d/J2WWHn7AkGseMLn7\nykEJxkt0+rpciLkeCWLubMAqw+JRWr6hHeLpGZfYWLm4MGVohPTQzgD9d3S5xLLZ\nFYr6PAEbRQKBgBXLMDmy5wL7H6tWN8olP0pxYVcaIgfOWxwP/gBUCKB0PC+HYvgh\nvVKKr+B/RDuvcJl22jOLiypWLkakWyYLH8zgoJDpxJd0OzURsbbe+kruPIYZcB/o\n/JVEDCKZ4G1aveqFVC9ngfD+heQzrujK6JfCJHu4LssuF9d1Mdil8I/rAoGAVgKC\nuqC3B4tK2HOjmlqk1UiHs5a5DY63wwVlE2y5p0SG3hcvM5Os7OrenHPeYIaKjwQP\nKtty7JbcJ88d0v3Xte7x31yF7lr5cRQdTHPSiWbXggEcnW+zyXkNpnqmSUuMKf+i\nGEv0XQM8fE/b0rCNUiYrALWIAHTSPPr6eP0oMkkCgYEAtkAVzlNwbmtPyCuCVZ8S\n6HEBTHZXN7l4XF8bgiEvGCoPwGD7S4ydzDoOEIYjSlmymz3Gb89+MSDmSNrjPMjT\nWaAW7Ffh2Ub+WnBl/g+D1y4plx3QPvnAm4hayEzLDrLdymRmuscWC/NhMJw2D6uS\n9JowsS1JQ1FXn00tGuzKPGI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hassan@housoon-calculator.iam.gserviceaccount.com",
+  "client_id": "115498611111874177355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hassan%40housoon-calculator.iam.gserviceaccount.com"
+}

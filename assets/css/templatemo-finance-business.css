@@ -387,7 +387,7 @@ header .navbar {
 }
 
 .Modern-Slider .item-1 .img-fill {
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/main_img.jpg);
 }
 
 .Modern-Slider .item-2 .img-fill {
@@ -550,7 +550,7 @@ ul.slick-dots {
 /* Services */
 
 .services {
-	margin-top: 140px;
+	margin-top: 40px;
 }
 
 .service-item img {
@@ -579,8 +579,8 @@ ul.slick-dots {
 /* Fun Facts */
 
 .fun-facts {
-	margin-top: 140px;
-	background-image: url(../images/fun-facts-bg.jpg);
+	margin-top: 0;
+	background-image: url(../images/how_it_works.png);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
