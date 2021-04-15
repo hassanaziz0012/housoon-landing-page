@@ -11,3 +11,4 @@ The server has two view functions for this website:
 2. The ContactForm view is very simple. It just uses the SMTPLib Python library to send an Email to the website owner.
 
 Building the calculator was difficult at first, because I was trying to figure out how the calculations worked. The client gave me a Google Sheet with all the formulas and values added. Mortgages, interest rates, and financial calculations are not my strongsuit. Later, It dawned on me that there was no reason to understand these financial calculations in the first place. I could simply update the Google Sheet with the user's values, and retrieve the result that the sheet generates, without having to understand anything about the financial calculations involved.
+There's always more than one way to solve a problem. And in this case, I found the easiest solution and used it.
